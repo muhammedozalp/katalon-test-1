@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dergi</name>
+   <tag></tag>
+   <elementGuidId>27bb67d3-98cc-4535-8f78-faa6b76da7ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainNav']/div/ul/li[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.magazine.has-menu > div.lvl1-item > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6433608e-7c11-4887-a041-d15faf525e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dergi</value>
+      <webElementGuid>cade2f39-93a5-4bf3-b6be-0d77d560bb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainNav&quot;)/div[@class=&quot;nav-content&quot;]/ul[@class=&quot;lvl1 active&quot;]/li[@class=&quot;magazine has-menu&quot;]/div[@class=&quot;lvl1-item&quot;]/span[1]</value>
+      <webElementGuid>81d6a1d0-ffc3-4189-8bd1-df2c0c4d51d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainNav']/div/ul/li[2]/div/span</value>
+      <webElementGuid>01624d03-0128-495b-8aa7-95e7b4390eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ne Okusam?'])[1]/following::span[1]</value>
+      <webElementGuid>3e6a4dd8-1587-49c3-9f80-4117f7d347bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sınav Kitapları'])[1]/following::span[1]</value>
+      <webElementGuid>5c4ae456-e079-41e8-b888-7edf2ce7b11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edebiyat Dergileri'])[1]/preceding::span[1]</value>
+      <webElementGuid>53f4c5e7-d152-49bc-9a30-7e699740d140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tüm Dergiler'])[1]/preceding::span[2]</value>
+      <webElementGuid>234c6057-92a4-4cea-bc18-9698a0453f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span</value>
+      <webElementGuid>26ddc73c-f8d7-4a21-9d39-7b72779e5446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dergi' or . = 'Dergi')]</value>
+      <webElementGuid>1113e8c1-2ff5-44c8-8329-6092ae5c0cb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

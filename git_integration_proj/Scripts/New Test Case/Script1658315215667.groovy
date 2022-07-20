@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.kitapyurdu.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Kitapyurdu, Kitapla bulumann en kolay yolu/span_Dergi'))
+
+WebUI.click(findTestObject('Object Repository/Page_Kitapyurdu, Kitapla bulumann en kolay yolu/a_Akar'))
+
+WebUI.click(findTestObject('Object Repository/Page_AKAR DERG/img'))
+
+WebUI.click(findTestObject('Object Repository/Page_Akar Serbest Edebiyat Dergisi Say62 Ni_9b2099/span_Haber Ver'))
+
+WebUI.click(findTestObject('Object Repository/Page_Akar Serbest Edebiyat Dergisi Say62 Ni_9b2099/img'))
+
+WebUI.closeBrowser()
+
