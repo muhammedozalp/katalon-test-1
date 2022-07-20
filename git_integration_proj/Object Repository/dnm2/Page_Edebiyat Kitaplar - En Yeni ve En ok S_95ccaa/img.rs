@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a60b200b-a86d-4130-912f-45a5f9390dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-10139']/div[3]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Şeker Portakalı (Ciltsiz)&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b60b6bc0-110a-4bc2-884a-12d1a29b1d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:100/wh:true</value>
+      <webElementGuid>ee1639d6-131e-4af6-b5d1-92176628edae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Şeker Portakalı (Ciltsiz)</value>
+      <webElementGuid>b8eb3114-65ba-4f2b-be99-f240a6a0d3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-10139&quot;)/div[@class=&quot;image&quot;]/div[@class=&quot;cover&quot;]/a[@class=&quot;pr-img-link&quot;]/img[1]</value>
+      <webElementGuid>b78c9dae-4756-4e55-b682-284e713c187f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-10139']/div[3]/div/a/img</value>
+      <webElementGuid>883b705f-f4cb-44e5-931e-f217c2124055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Şeker Portakalı (Ciltsiz)']</value>
+      <webElementGuid>769186c0-6677-4665-a898-6216fef7ad62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>b83d8b64-497e-4fc5-b5cf-db4980208ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:100/wh:true' and @alt = 'Şeker Portakalı (Ciltsiz)']</value>
+      <webElementGuid>c8683c6d-95c0-4260-9889-3b1e3f2a20fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
