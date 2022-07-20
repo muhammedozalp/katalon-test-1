@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tmn Gster</name>
+   <tag></tag>
+   <elementGuidId>503e425c-f512-4ea8-863d-ba830b3d9da8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.show-all</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-weekly_featured_publisher_0']/div/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6ff42b92-963e-4bd2-a410-3fc3be66dc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>show-all</value>
+      <webElementGuid>28d1978a-425a-46c7-8772-cfc32f7c17b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.kitapyurdu.com/yayinevi/pearson-yayinevi/10892.html</value>
+      <webElementGuid>3ef16bfa-1542-45ab-ac66-aa23af94f5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tümünü Göster</value>
+      <webElementGuid>277a5d06-b895-49ea-9863-da02d1fea941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-weekly_featured_publisher_0&quot;)/div[@class=&quot;box-heading featured-publisher-heading&quot;]/div[@class=&quot;heading-nav-horizontal&quot;]/a[@class=&quot;show-all&quot;]</value>
+      <webElementGuid>8b32b419-6f44-4f07-8bde-31cf574ad9d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-weekly_featured_publisher_0']/div/div[4]/a</value>
+      <webElementGuid>147a8499-369c-4fd9-b707-11f3514aec69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tümünü Göster')]</value>
+      <webElementGuid>383e3164-35d6-4527-8b21-43bcc859dacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('%40', &quot;'&quot;, 'avaran indirim')])[1]/following::a[1]</value>
+      <webElementGuid>13f80536-3d2d-4821-b29a-7238cabf2f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEARSON YAYINEVİ'])[1]/following::a[1]</value>
+      <webElementGuid>4b9fb201-fa54-4fe9-92f1-89662eaa8c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Süper Patates 7 / Süper Köpüklü Bir Macera'])[1]/preceding::a[4]</value>
+      <webElementGuid>8b3780ef-8f3d-4975-a5f8-1b6cda39a2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kargo Bedava'])[1]/preceding::a[9]</value>
+      <webElementGuid>2e539dc1-5943-4b82-9c17-6b9b0ac1cacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tümünü Göster']/parent::*</value>
+      <webElementGuid>74266819-3bd5-4f5b-8462-00aeaf525c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.kitapyurdu.com/yayinevi/pearson-yayinevi/10892.html')])[2]</value>
+      <webElementGuid>f8c8dfaf-1d0a-4160-91fa-839a4c3cbce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[4]/a</value>
+      <webElementGuid>ea350305-f90d-4457-926c-f842aacc8596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.kitapyurdu.com/yayinevi/pearson-yayinevi/10892.html' and (text() = 'Tümünü Göster' or . = 'Tümünü Göster')]</value>
+      <webElementGuid>6f0b8a61-c87c-4a2c-aaab-323cc9f8f726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
